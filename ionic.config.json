@@ -1,0 +1,8 @@
+{
+  "name": "ionic-full-payment",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "angular"
+}
